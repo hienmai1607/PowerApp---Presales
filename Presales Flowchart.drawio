@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="_mwFFSAaBm4o1dvUszSz">
-    <mxGraphModel dx="1712" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1145" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,6 +563,337 @@
         </mxCell>
         <mxCell id="9vMiMUasGF92PGOkPrLT-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Nuts PL - Presales - Packagin Process&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="340" x="62" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-11" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-12" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Qty (from Packing Way)" vertex="1">
+          <mxGeometry relative="1" x="0.1026" y="4" as="geometry">
+            <mxPoint x="-8" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Layer 1" vertex="1">
+          <mxGeometry height="60" width="100" x="1820" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Primary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="1664" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="1965" y="668" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-15" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-19" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Qty (from Packing Way)" vertex="1">
+          <mxGeometry relative="1" x="-0.1915" y="-3" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Layer 2" vertex="1">
+          <mxGeometry height="60" width="100" x="1820" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Secondary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="1664" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-18" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-36" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-40" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="x Carton/container" vertex="1">
+          <mxGeometry relative="1" x="0.3202" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-43" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20 DC" vertex="1">
+          <mxGeometry relative="1" x="0.7931" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-37" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-44" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="40 DC" vertex="1">
+          <mxGeometry relative="1" x="0.8447" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-38" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qkO9ETzYpgQ8FywHKCDU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-39" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Floor load" vertex="1">
+          <mxGeometry relative="1" x="-0.8718" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-45" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20RC" vertex="1">
+          <mxGeometry relative="1" x="0.859" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Layer 3" vertex="1">
+          <mxGeometry height="60" width="100" x="1820" y="287" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Teritary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="1662" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-23" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-29" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="40 DC" vertex="1">
+          <mxGeometry relative="1" x="0.4545" y="-4" as="geometry">
+            <mxPoint x="6" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-26" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-28" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20 DC" vertex="1">
+          <mxGeometry relative="1" x="0.0743" y="2" as="geometry">
+            <mxPoint x="-27" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-32" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Pallet/Container" vertex="1">
+          <mxGeometry relative="1" x="-0.0514" y="2" as="geometry">
+            <mxPoint x="51" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-27" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-30" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20RC" vertex="1">
+          <mxGeometry relative="1" x="0.2571" y="-2" as="geometry">
+            <mxPoint x="15" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Palletization" vertex="1">
+          <mxGeometry height="60" width="100" x="1820" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-20" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Last Layer Qty (Carton/Pallet)" vertex="1">
+          <mxGeometry x="1877" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Pallet Info,&amp;nbsp;&lt;span style=&quot;color: rgb(88, 108, 100); font-family: Inter, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Cartons / layer,&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;field-label-text&quot; style=&quot;box-sizing: border-box; min-width: 0px; color: rgb(88, 108, 100); font-family: Inter, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Layers / pallet&lt;/span&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="1662" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="1820" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="1711" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="1929" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(88, 108, 100); font-family: Inter, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Carton / Container,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(88, 108, 100); font-family: Inter, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Net weight / Container (kg)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="237" x="1755" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="2174" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="2065" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="2283" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-41" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="x Carton/container" vertex="1">
+          <mxGeometry x="2220" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-42" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="x Carton/container" vertex="1">
+          <mxGeometry x="2333" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="1 Product" vertex="1">
+          <mxGeometry height="30" width="60" x="1680" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Mix Product" vertex="1">
+          <mxGeometry height="30" width="100" x="2386" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-48" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-49" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Qty (from Packing Way)" vertex="1">
+          <mxGeometry relative="1" x="0.1026" y="4" as="geometry">
+            <mxPoint x="-8" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Product 1 Layer 1" vertex="1">
+          <mxGeometry height="60" width="100" x="2576" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Primary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2420" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-52" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2626" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-53" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Qty (from Mix ratio)" vertex="1">
+          <mxGeometry relative="1" x="-0.1915" y="-3" as="geometry">
+            <mxPoint x="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Product 1 Layer 2" vertex="1">
+          <mxGeometry height="60" width="100" x="2576" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Secondary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2420" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-122" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qkO9ETzYpgQ8FywHKCDU-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-123" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Qty (from Packing Way)" vertex="1">
+          <mxGeometry relative="1" x="0.0909" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-85" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Product 2 Layer 1" vertex="1">
+          <mxGeometry height="60" width="100" x="2809" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-86" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-87" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-88" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-87" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="x Carton/container" vertex="1">
+          <mxGeometry relative="1" x="0.3202" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-89" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-87" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20 DC" vertex="1">
+          <mxGeometry relative="1" x="0.7931" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-90" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-91" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="40 DC" vertex="1">
+          <mxGeometry relative="1" x="0.8447" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-92" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="qkO9ETzYpgQ8FywHKCDU-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-93" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-92" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Floor load" vertex="1">
+          <mxGeometry relative="1" x="-0.8718" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-94" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-92" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20RC" vertex="1">
+          <mxGeometry relative="1" x="0.859" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-95" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mix Product Layer 3" vertex="1">
+          <mxGeometry height="60" width="100" x="2702" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Teritary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2544" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-97" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-98" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-97" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="40 DC" vertex="1">
+          <mxGeometry relative="1" x="0.4545" y="-4" as="geometry">
+            <mxPoint x="6" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-99" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-100" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20 DC" vertex="1">
+          <mxGeometry relative="1" x="0.0743" y="2" as="geometry">
+            <mxPoint x="-27" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-101" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Pallet/Container" vertex="1">
+          <mxGeometry relative="1" x="-0.0514" y="2" as="geometry">
+            <mxPoint x="51" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-102" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-103" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="20RC" vertex="1">
+          <mxGeometry relative="1" x="0.2571" y="-2" as="geometry">
+            <mxPoint x="15" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-104" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Palletization" vertex="1">
+          <mxGeometry height="60" width="100" x="2702" y="617" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-105" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Last Layer Qty (Carton/Pallet)" vertex="1">
+          <mxGeometry x="2759" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Pallet Info,&amp;nbsp;&lt;span style=&quot;color: rgb(88, 108, 100); font-family: Inter, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Cartons / layer,&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;field-label-text&quot; style=&quot;box-sizing: border-box; min-width: 0px; color: rgb(88, 108, 100); font-family: Inter, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 11px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Layers / pallet&lt;/span&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2544" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-107" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="2702" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-108" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="2593" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-109" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="2811" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-110" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="3056" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-111" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="2947" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-112" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Continer Configuration bases Type" vertex="1">
+          <mxGeometry height="60" width="100" x="3165" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-113" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="x Carton/container" vertex="1">
+          <mxGeometry x="3102" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-114" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="x Carton/container" vertex="1">
+          <mxGeometry x="3215" y="607" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-120" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qkO9ETzYpgQ8FywHKCDU-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-121" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-120" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Qty (from Mix ratio)" vertex="1">
+          <mxGeometry relative="1" x="-0.2722" y="-1" as="geometry">
+            <mxPoint x="-1" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-115" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Product 2 Layer 2" vertex="1">
+          <mxGeometry height="60" width="100" x="2809" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Primary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2915" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Secondary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2930" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-124" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-125" connectable="0" parent="qkO9ETzYpgQ8FywHKCDU-124" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="X Qty (from Packing way)" vertex="1">
+          <mxGeometry relative="1" x="-0.098" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-118" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mix Product Layer 1" vertex="1">
+          <mxGeometry height="60" width="100" x="2703" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-126" edge="1" parent="1" source="qkO9ETzYpgQ8FywHKCDU-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qkO9ETzYpgQ8FywHKCDU-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-119" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Mix Product Layer 2" vertex="1">
+          <mxGeometry height="60" width="100" x="2703" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-127" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Secondary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2541" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="qkO9ETzYpgQ8FywHKCDU-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" value="Primary Packaging Info&lt;div&gt;(Net weight + Packaging Type + Dimension + MOQ + Pkg Cost per Unit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="152" x="2535" y="294" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
